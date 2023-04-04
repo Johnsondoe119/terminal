@@ -1,0 +1,8 @@
+The Mac Terminal is a command line interface for the macOS operating system. This is usually used by network admins or advance technical users who wanto
+initiate an action. Its very similar to the Windows Command Prompt. Using the terminal is no way to "hack" your computer, any work done in the interface will have generally have no effects on the computer.
+however it is vital that you  watch what commands is type in, technically you can ruin your compter by putting in certain command. 
+
+Github is a web based application while Git is a softwere base, one cant work without the other.
+
+Github allows you and others to workl on a projects from anywhere.
+
